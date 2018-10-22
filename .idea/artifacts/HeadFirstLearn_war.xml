@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HeadFirstLearn:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="HeadFirstLearn.war">
+      <element id="artifact" artifact-name="HeadFirstLearn:war exploded" />
+    </root>
+  </artifact>
+</component>
