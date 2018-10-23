@@ -5,7 +5,7 @@ package com.xyj.learn.headfirst.strategypattern;
  * @date: 2018/10/22 15:08
  * @description: 正常的鸭子叫声
  */
-public class Quack implements QuackBehavior {
+public class NormalQuack implements QuackBehavior {
 
     @Override
     public void quack() {
